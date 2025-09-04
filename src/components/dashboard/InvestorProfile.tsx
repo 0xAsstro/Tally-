@@ -74,7 +74,7 @@ export default function InvestorProfile() {
       <p className="text-sm text-slate-400 mb-4 text-center">Level Progress: {currentXp} / {nextLevelXp} XP</p>
       <div className="bg-slate-800 p-3 rounded-md text-center">
         <p className="text-sm text-slate-400">Next Reward</p>
-        <p className="font-semibold text-white">"Asset Admiral" Title</p>
+        <p className="font-semibold text-white">Asset Admiral&apos;s Title</p>
       </div>
     </div>
   );
